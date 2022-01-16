@@ -1,0 +1,24 @@
+{
+  "name": "medium-tutorial-nft-generation",
+  "version": "1.0.0",
+  "description": "Generate random NFTs with Node.js + Sourcecode  Link: https://medium.com/@jcmacur/generate-random-nfts-with-node-js-sourcecode-b93a2ab411fe .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jcmacur: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@github.com/jcmacur/medium-tutorial-nft-generation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmacur/medium-tutorial-nft-generation/issues"
+  },
+  "homepage": "https://github.com/jcmacur/medium-tutorial-nft-generation#readme",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "fs": "*",
+    "jimp": "^0.16.1"
+  }
+}
