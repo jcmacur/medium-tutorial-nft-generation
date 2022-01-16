@@ -61,7 +61,7 @@ const getOutfit = () => {
         ]);
     }else if(_random < UNCOMMON_MAX_RARITY) {
         return randomElement([
-            'Short with holes'
+            'Shirt with holes'
         ]);
     }else if(_random < RARE_MAX_RARITY) {
         return randomElement([
