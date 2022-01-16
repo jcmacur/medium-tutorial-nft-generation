@@ -29,3 +29,7 @@ const getBackground = () => {
         ]);
     }
 }
+
+module.exports = {
+    getBackground
+}
